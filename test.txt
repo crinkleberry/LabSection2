@@ -1,1 +1,2 @@
 This is a test
+that has been edited in master
